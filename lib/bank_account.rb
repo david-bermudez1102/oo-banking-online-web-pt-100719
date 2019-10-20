@@ -23,4 +23,7 @@ class BankAccount
       false
     end
   end
+
+  def close_account
+  end
 end
